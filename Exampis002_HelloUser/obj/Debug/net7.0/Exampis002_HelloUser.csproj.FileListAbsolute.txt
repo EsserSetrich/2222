@@ -1,0 +1,15 @@
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\bin\Debug\net7.0\Exampis002_HelloUser.exe
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\bin\Debug\net7.0\Exampis002_HelloUser.deps.json
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\bin\Debug\net7.0\Exampis002_HelloUser.runtimeconfig.json
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\bin\Debug\net7.0\Exampis002_HelloUser.dll
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\bin\Debug\net7.0\Exampis002_HelloUser.pdb
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\obj\Debug\net7.0\Exampis002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\obj\Debug\net7.0\Exampis002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\obj\Debug\net7.0\Exampis002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\obj\Debug\net7.0\Exampis002_HelloUser.AssemblyInfo.cs
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\obj\Debug\net7.0\Exampis002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\obj\Debug\net7.0\Exampis002_HelloUser.dll
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\obj\Debug\net7.0\refint\Exampis002_HelloUser.dll
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\obj\Debug\net7.0\Exampis002_HelloUser.pdb
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\obj\Debug\net7.0\Exampis002_HelloUser.genruntimeconfig.cache
+C:\Users\Serjio\Desktop\Новая папка (7)\Examples\Exampis002_HelloUser\obj\Debug\net7.0\ref\Exampis002_HelloUser.dll
